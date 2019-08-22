@@ -1,10 +1,10 @@
 # MTGLife-CardReaderApp
 An Android App for Magic The Gathering for standard and Commander format with a card reader to find rules and price quickly.
 ## Features
--Firebase ML Kit Text Recognition.
--Clean & Simple UI
--Easy to use
--Uses Scryfall API for up to date pricing and rules.
+- Firebase ML Kit Text Recognition.
+- Clean & Simple UI
+- Easy to use
+- Uses Scryfall API for up to date pricing and rules.
 ## Getting Started
 ## Prerequisites
 - Add Firebase to your project more info on How to do this here: 
