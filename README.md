@@ -12,9 +12,9 @@ https://firebase.google.com/docs/android/setup?utm_campaign=Firebase_featureover
 - Android Device Emulator API 28 or higher with Play Services 9.0 or higher
 - Volley Library
 ## Roadmap
--Add UI for 4 and 6 players using touch coordinates instead for buttons (for a cleaner UI)
--Change 1v1 UI to touch coordinates
--Add Players counters UI (Poison,Exp,Enegy)
--Modify the Text recognition to accept full card text instead of only name.
+- Add UI for 4 and 6 players using touch coordinates instead for buttons (for a cleaner UI)
+- Change 1v1 UI to touch coordinates
+- Add Players counters UI (Poison,Exp,Enegy)
+- Modify the Text recognition to accept full card text instead of only name.
 ## Project Status
 On slow development
