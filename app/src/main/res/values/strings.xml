@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MTGLife</string>
+    <string name="_1v1">1v1</string>
+    <string name="_4_players_edh">4 players EDH</string>
+    <string name="_6_players_edh">6 players EDH</string>
+    <string name="mainactivityimage">mainActivityImage</string>
+    <string name="background">background</string>
+    <string name="rightdownbutton">rightdownbutton</string>
+    <string name="leftupbutton">leftupbutton</string>
+    <string name="leftdownbutton">leftdownbutton</string>
+    <string name="rightupbutton">rightupbutton</string>
+    <string name="scanbutton">scanbutton</string>
+    <string name="_20">20</string>
+</resources>
